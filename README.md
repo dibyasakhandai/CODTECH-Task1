@@ -28,3 +28,5 @@ File Descriptions:
 How to Run the Project:
    Download or clone the project files.
    Open index.html in a web browser to view and interact with the to-do list web application.
+
+Project output:![Screenshot 2024-06-27 215515](https://github.com/dibyasakhandai/CODTECH-Task1/assets/147296590/ca4cd48f-8bdc-40a6-b2ed-c8976e9ace0b)
